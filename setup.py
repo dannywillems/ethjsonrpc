@@ -20,9 +20,10 @@ setup(
         'Operating System :: OS Independent',
         'Programming Language :: Python',
         'Programming Language :: Python :: 2',
+        'Programming Language :: Python :: 3',
     ],
     install_requires=[
-        'ethereum==1.0.8',
-        'requests==2.9.1',
+        'ethereum==1.6.0',
+        'requests==2.20.1',
     ],
 )
